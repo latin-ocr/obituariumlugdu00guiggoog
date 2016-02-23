@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./obituariumlugdu00guiggoog_0218.png"; bbox 0 0 4314 6058; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 426 2829 2030 3080">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 426 2829 2030 3080">
+     <span class='ocr_line' id='line_1_1' title="bbox 426 2829 2030 3080; baseline 0.042 -90"><span class='ocrx_word' id='word_1_1' title='bbox 426 2829 786 3050; x_wconf 7' lang='lat' dir='ltr'>l-Pfflffls</span> <span class='ocrx_word' id='word_1_2' title='bbox 844 2833 1468 3005; x_wconf 73' lang='lat' dir='ltr'><strong>JUsTlFchTIVES.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1605 3024 1610 3032; x_wconf 74' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1893 3047 1903 3080; x_wconf 74' lang='grc'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2027 2943 2030 2951; x_wconf 91' lang='grc'><strong><em>·</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2162 6052">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2162 6052">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2162 6052; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 2162 6052; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
